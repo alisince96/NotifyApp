@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012368758026",
+    "project_id": "fyp-bughti",
+    "storage_bucket": "fyp-bughti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012368758026:android:0e371e2e34c2e588f8d6f3",
+        "android_client_info": {
+          "package_name": "com.pnotify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012368758026-4gd05dgnh0qef5qskuqaircan58nv6td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg73rxmS5MkLEs4Xq86R442z2URHvxQ2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012368758026-4gd05dgnh0qef5qskuqaircan58nv6td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
